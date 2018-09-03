@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Ashe Blog
-subtitle: "Ashe's blog"
+title: Robolover
+subtitle: "BoGyeong's blog"
 email: rlaqhrud852@gmail.com
-name: Ashe Kim(BoGyeong Kim)
+name: Robolover(BoGyeong Kim)
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -70,12 +70,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  # - name: Twitter
-  #   icon: twitter
-  #   username: Ashe
-  #   url: https://twitter.com/TheBenCentra
-  #   desc: Follow me on Twitter
-  #   share: true
+  - name: Twitter
+    icon: twitter
+    username:
+    url:
+    desc: Follow me on Twitter
+    share: true
 
   - name: Facebook
     icon: facebook
@@ -94,7 +94,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username:
-    url: 
+    url:
     desc: Connect with me on LinkedIn
     share: true
 
